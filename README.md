@@ -54,10 +54,4 @@ myshell> exit
 ## Contributing
 Feel free to fork the repository and submit pull requests. Contributions to improve functionality and add new features are welcome!
 
-## License
-This project is licensed under the MIT License.
-
----
-
-⭐ **If you like this project, don't forget to star the repository!**
 
